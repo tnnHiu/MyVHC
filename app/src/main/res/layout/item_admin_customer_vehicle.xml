@@ -16,7 +16,7 @@
             android:id="@+id/imgVehicle"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:src="@drawable/vehicle_logo"
+            android:src="@drawable/customer_vehicle_logo"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintStart_toStartOf="parent"/>
 
@@ -24,7 +24,7 @@
             android:id="@+id/vehicleChassisNum"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="xe03"
+            android:text="xe02"
             android:textSize="30sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
